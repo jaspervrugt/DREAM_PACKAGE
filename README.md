@@ -15,7 +15,7 @@ Bayesian inference has found widespread application and use in science and engin
 ### Executing program
 
 * After intalling, you can simply direct to each example folder and execute the local 'example_X.m' file.
-* Please Make sure you read carefully the instructions (i.e., green comments) in 'install_DREAM_PACKAGE.m' and the manual in PDF !!!  
+* Please make sure you read carefully the instructions (i.e., green comments) in 'install_DREAM_PACKAGE.m' and the manual in PDF !!!  
 * Please also refer to the Addendum PDF which describes the changes made to integrate DREAM/DREAM_D/DREAM_ZS/DREAM_DZS algorithms into one toolbox/
 
 ## Authors
