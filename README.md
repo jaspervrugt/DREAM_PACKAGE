@@ -28,5 +28,8 @@ Bayesian inference has found widespread application and use in science and engin
     * Initial Release
 * 2.0 
     * Merged DREAM/DREAM_ZS/DREAM_D/DREAM_DZS and DREAM_BMA into one algorithm.
+    * Latest update to case study 6 to show how to work with generalized/universal likelihood functions described in the paper: 
+         Vrugt, J.A., D.Y. de Oliveira, G. Schoups, and C.G.H. Diks (2022), On the use of distribution-adaptive likelihood functions: Generalized and universal likelihood functions, scoring rules and multi-criteria       
+         ranking, Journal of Hydrology, 615, Part B, 2022, doi:10.1016/j.jhydrol.2022.128542: https://www.sciencedirect.com/science/article/pii/S002216942201112X
 
 ## Acknowledgments
